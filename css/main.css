@@ -291,7 +291,7 @@ a {
 }
 
 .activeCol {
-  background-image: url("../static/images/bild1.jpg");
+  background-image: url("../static/images/Bild1.jpg");
   background-position: center center;
   background-size: cover;
   transition: 0.2s;
@@ -314,14 +314,14 @@ a:hover {
 }
 
 .middle-row:hover {
-  background-image: url("../static/images/bild2.jpg");
+  background-image: url("../static/images/Bild2.jpg");
   background-position: center center;
   background-size: cover;
   transition: 0.2s;
 }
 
 .bottom-row:hover {
-  background-image: url("../static/images/bild3.jpg");
+  background-image: url("../static/images/Bild3.jpg");
   background-position: center center;
   background-size: cover;
   transition: 0.2s;
