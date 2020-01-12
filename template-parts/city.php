@@ -4,7 +4,7 @@
 */
 get_header(); ?>
 <div id="primary" class="content">
-<div class="hero-image"><h1 class="test123">City</h1></div>
+<div class="hero-image"><h1 class="test123">BIM-City</h1></div>
     <?
     while ( have_posts() ) : the_post(); ?> 
         <div class="content-wrapper">
