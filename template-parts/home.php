@@ -7,7 +7,7 @@ get_header(); ?>
   <div class="start-containers">
     <a href="<?php echo get_page_link( get_page_by_title( Management )->ID ); ?>">
       <div class="clickable-container">
-        <div id="test1" class="startpage-img top-row activeCol">
+        <div id="test1" class="startpage-img top-row">
           <div class="start-text-wrapper">
             <h1 class="start-title">BIM-Management</h1>
             <p class="start-text">Vi hjälper er att upprätta BIM-content, BIM-manual, mängdning, planering av

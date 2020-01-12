@@ -221,8 +221,8 @@ a {
     color:black;
 }
 
-.activeCol {
-    background-image: url('../static/images/Bild1.jpg');
+.bottom-row {
+    background-image: url('../static/images/Bild3.jpg');
     background-position: center center;
     background-size: cover;
     transition: .2s;
@@ -236,8 +236,11 @@ a:hover {
 }
 
 .top-row:hover {
+    background-image: url('../static/images/Bild1.jpg');
 
-
+    background-position: center center;
+    background-size: cover;
+    transition: .2s;
 }
 .contact-container {
     height: 100%;
