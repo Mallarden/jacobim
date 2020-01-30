@@ -34,7 +34,7 @@ get_header(); ?>
       <div class="contact-container py-0 text-center">
           <h3 class="text-center pt-5">Kontakt</h3>
           <p>info@jacobim.com</p>
-          <p>0708782688</p>
+          <p>0702700840</p>
           <p>Göteborg</p>
       </div>
     </div>
