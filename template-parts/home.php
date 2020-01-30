@@ -35,7 +35,7 @@ get_header(); ?>
           <h3 class="text-center pt-5">Kontakt</h3>
           <p>info@jacobim.com</p>
           <p>0708782688</p>
-          <p>Södra Vägen 95</p>
+          <p>Göteborg</p>
       </div>
     </div>
   </div>
